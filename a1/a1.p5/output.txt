@@ -1,0 +1,7 @@
+Vector * matrix
+-5 -17 13 -19 
+
+Matrix * vector
+4 -32 2 0 
+
+
